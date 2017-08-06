@@ -869,5 +869,5 @@ where *benefit* and *loss* are the positive and negative benefit from each good 
 Other classifications can also be tested and may perform better in this case.
 
 # Refernce and Data Source
-Data and project idea are obtained from a kaggle project as:
-[https://www.kaggle.com/c/DontGetKicked] (https://www.kaggle.com/c/DontGetKicked)
+Data and project idea are obtained from a kaggle project as:    
+https://www.kaggle.com/c/DontGetKicked
